@@ -123,6 +123,7 @@ foreach(string name in  col5)
 
 Console.Clear();
 /*******************************************************/
+
 // Mini exo commun
 // ***************
 
@@ -158,3 +159,9 @@ foreach(KeyValuePair<string, double> elem in exo)
 
     Console.WriteLine($" - {student} : {result}");
 }
+
+/*******************************************************/
+
+
+// Choix d'une collection en .Net
+// https://learn.microsoft.com/fr-fr/dotnet/standard/collections/#choose-a-collection
